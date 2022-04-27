@@ -1,0 +1,8 @@
+start asking the user with an prompt (using printf on the screen)to input height of hashes (#) in order to create mario's pyramid
+the height required to this code needs to be between 1 and 8 (using integers with function get_int)
+in order to create the pyramid, it is required to use for loops and do while conditions to print hashes and print new lines
+the hashes will have heights and lines (1x1 minimum and 8x8 maximum, in each row)
+if the height isn't between those numbers
+the output should be invalid
+else, the output should be the number of hashes (#) that will create the pyramid
+end of code
